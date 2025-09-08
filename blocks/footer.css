@@ -1,0 +1,15 @@
+.footer {
+  max-width: 100%;
+  padding: 0 45px;
+}
+
+.footer__paragraph {
+  padding: 60px 0 60px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  line-height: 100%;
+  font: #212121;
+  opacity: 70%;
+}
