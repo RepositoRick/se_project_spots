@@ -6,7 +6,7 @@ An image sharing site.
 
 This is a image sharing site project that uses Flexbox, Grid, Media Queries and Responsive Design.
 
-## Tech STack
+## Tech Stack
 
 - HTML
 - CSS
@@ -16,4 +16,7 @@ This is a image sharing site project that uses Flexbox, Grid, Media Queries and 
 
 This webpage is deplyed to GitHub Pages.
 
-- Deployment link: https://RepositoRick.github.io/Spots
+- Deployment link:
+  https://repositorick.github.io/se_project_spots/
+
+  https://drive.google.com/file/d/1B_7fk3yi8EDk2HcAoFzBTaGHIDl7clqS/view?usp=drive_link
